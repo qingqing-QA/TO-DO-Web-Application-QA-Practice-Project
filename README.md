@@ -27,8 +27,7 @@ The goal of this project is to practice:
 - Boundary Testing
 - Negative Testing
 - UI Testing
-- Cross-browser Testing
-- 
+- Cross-browser Testing- 
 ---
 
 ## 📋 Test Artifacts
