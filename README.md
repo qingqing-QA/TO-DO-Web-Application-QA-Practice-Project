@@ -28,11 +28,7 @@ The goal of this project is to practice:
 - Negative Testing
 - UI Testing
 - Cross-browser Testing
-
-### Out of Scope:
-- Performance Testing
-- Security Testing
-
+- 
 ---
 
 ## 📋 Test Artifacts
